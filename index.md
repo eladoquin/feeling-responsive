@@ -7,7 +7,7 @@
 layout: frontpage
 title: "Radio Despierta Conce –  Una Radio hecha por Ciudadan@s para Ciudadan@s"
 header:
-   image_fullwidth: "rdc_header.jpg"
+   image_fullwidth: "http://static.wixstatic.com/media/3e9396_e7c2ee8b755b43479894e72a5a32daae.jpg"
 widget-1:
     title: "Programas"
     url: 'http://eladoquin.github.io/feeling-responsive/blog/'
