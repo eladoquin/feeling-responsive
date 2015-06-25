@@ -8,11 +8,11 @@
 #                                                 /____/        
 #
 # Title of your website
-title: "Feeling Responsive"
+title: "Radio Despierta Conce"
 
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: "A Flexible Theme for Jekyll"
+slogan: "Tu Radio, Tu Conce TM"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
@@ -21,7 +21,7 @@ description: "»Feeling Responsive« is a responsive theme for Jekyll based on t
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "https://phlow.github.io/feeling-responsive"
+url: "https://eladoquin.github.io/feeling-responsive"
 baseurl: ""
 
 # This is for the editing function in _/includes/improve_content.html
@@ -34,7 +34,7 @@ improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}/{{ post.image.title }}">
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}/image.jpg)
 #
-urlimg: "http://phlow.github.io/feeling-responsive/images/"
+urlimg: "http://eladoquin.github.io/feeling-responsive/images/"
 
 
 # Logo size is 600x80 pixels
