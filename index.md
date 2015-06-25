@@ -17,7 +17,7 @@ widget-2:
     title: "Sobremesa en la Ciudad"
     url: 'http://eladoquin.github.io/feeling-responsive/info/'
     text: 'En el último episodio de la temporada, discutimos "El Mito de la Participación".'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+    video: '<iframe width="100%" height="182" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/209437650&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>'
 widget-3:
     title: "Nosotros"
     url: 'http://eladoquin.github.io/feeling-responsive/about/'
